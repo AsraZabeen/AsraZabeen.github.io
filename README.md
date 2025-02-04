@@ -35,7 +35,7 @@
     <main style="padding: 20px;">
         <section id="home" style="margin-bottom: 40px;">
             <h2>Welcome to Our College</h2>
-            <p>ABC College is dedicated to providing quality education in a wide range of fields. With experienced faculty, state-of-the-art facilities, and a welcoming environment, we strive to empower students to achieve their fullest potential.</p>
+            <p>SWC College is dedicated to providing quality education in a wide range of fields. With experienced faculty, state-of-the-art facilities, and a welcoming environment, we strive to empower students to achieve their fullest potential.</p>
         </section>
 
         <section id="about" style="margin-bottom: 40px;">
