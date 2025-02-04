@@ -40,32 +40,32 @@
 
         <section id="about" style="margin-bottom: 40px;">
             <h2>About Us</h2>
-            <p>Founded in 1985, ABC College has a long-standing history of academic excellence. Our mission is to foster intellectual growth and development in students while preparing them for careers in an ever-changing world.</p>
+            <p>Founded in 1998, Shantiniketan Degree College has a long-standing history of academic excellence. Our mission is to foster intellectual growth and development in students while preparing them for careers in an ever-changing world.</p>
         </section>
 
         <section id="courses" style="margin-bottom: 40px;">
             <h2>Our Courses</h2>
             <ul style="list-style-type: none;">
-                <li style="margin-bottom: 10px;">Computer Science</li>
-                <li style="margin-bottom: 10px;">Mechanical Engineering</li>
-                <li style="margin-bottom: 10px;">Business Administration</li>
-                <li style="margin-bottom: 10px;">Psychology</li>
-                <li style="margin-bottom: 10px;">Mathematics</li>
+                <li style="margin-bottom: 10px;">Bachelor of Computer Application</li>
+                <li style="margin-bottom: 10px;">BSC</li>
+                <li style="margin-bottom: 10px;">Bachelor of Business Administration</li>
+                <li style="margin-bottom: 10px;">B.com</li>
+                <li style="margin-bottom: 10px;">MBA</li>
             </ul>
         </section>
 
         <section id="contact">
             <h2>Contact Us</h2>
             <p>If you have any questions, feel free to reach out to us:</p>
-            <p>Email: <a href="mailto:info@abccollege.edu" style="color: #4CAF50;">info@abccollege.edu</a></p>
-            <p>Phone: +1 234 567 890</p>
-            <p>Address: 123 College Road, City, Country</p>
+            <p>Email: <a href="mailto:info@abccollege.edu" style="color: #4CAF50;">info@shantiniketanwomendegreecollege.edu</a></p>
+            <p>Phone: +1 9453726483</p>
+            <p>Address: Shantiniketan Degree College, Eragadda, Hyderabad 50007</p>
         </section>
     </main>
 
     <!-- Footer Section -->
     <footer style="background-color: #333; color: white; text-align: center; padding: 10px;">
-        <p>&copy; 2025 ABC College. All Rights Reserved.</p>
+        <p>&copy; 2025 Shantiniketan Degree College. All Rights Reserved.</p>
     </footer>
 
 </body>
